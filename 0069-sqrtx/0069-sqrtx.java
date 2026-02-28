@@ -3,16 +3,16 @@ class Solution {
         if(x<2){
             return x;
         }
-        int left = 0;
+        int left = 1;
         int right = x/2;
         int ans = 0;
         
         while(left<=right){
             int mid = (right + left)/2;
-            long square = (long)mid*mid;
-            if(square == x){
+            
+            if(mid == x/mid){
                 return mid;
-            }else if(square < x){
+            }else if(mid < x/mid){
                 ans = mid;
                 left = mid+1;
             }else{
