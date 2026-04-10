@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0238-product-of-array-except-self](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0238-product-of-array-except-self) |
+| [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0643-maximum-average-subarray-i) |
 | [1732-find-the-highest-altitude](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -33,8 +34,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
