@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -59,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
