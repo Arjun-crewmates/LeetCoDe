@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0643-maximum-average-subarray-i) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0701-insert-into-a-binary-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
