@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Math
 |  |
 | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
 | ------- |
