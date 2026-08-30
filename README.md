@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
+| [0605-can-place-flowers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0643-maximum-average-subarray-i) |
 | [1732-find-the-highest-altitude](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/1732-find-the-highest-altitude) |
 ## Binary Search
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
+| [0605-can-place-flowers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0605-can-place-flowers) |
 ## Two Pointers
 |  |
 | ------- |
