@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0643-maximum-average-subarray-i) |
