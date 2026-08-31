@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0055-jump-game) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Greedy
 |  |
 | ------- |
