@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
@@ -126,4 +127,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
