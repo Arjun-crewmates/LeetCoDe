@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0069-sqrtx) |
 | [0326-power-of-three](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/2235-add-two-integers) |
 ## Prefix Sum
 |  |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -137,4 +139,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0232-implement-queue-using-stacks) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
