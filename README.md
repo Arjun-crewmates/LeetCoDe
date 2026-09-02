@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0643-maximum-average-subarray-i) |
 | [1732-find-the-highest-altitude](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/1732-find-the-highest-altitude) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/2235-add-two-integers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
