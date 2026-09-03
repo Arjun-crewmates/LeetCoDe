@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0125-valid-palindrome](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Tree
 |  |
