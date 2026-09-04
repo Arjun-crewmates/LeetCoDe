@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
 ## String
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0205-isomorphic-strings) |
 ## Stack
 |  |
 | ------- |
