@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0342-power-of-four) |
 | [2235-add-two-integers](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/2235-add-two-integers) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0496-next-greater-element-i) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0202-happy-number) |
 ## Tree
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0342-power-of-four) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Arjun-crewmates/LeetCoDe/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
